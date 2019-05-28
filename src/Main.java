@@ -28,6 +28,7 @@ public class Main {
         Main obj = new Main();
         obj.setTamaño("grande");
         obj.setColor("color");
+        System.out.print(obj);
 
     }
 }
